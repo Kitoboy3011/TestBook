@@ -1,0 +1,388 @@
+[
+  {
+    "url": "https://www.anapioficeandfire.com/api/houses/86",
+    "name": "House Crakehall of Crakehall",
+    "region": "The Westerlands",
+    "coatOfArms": "A brindled boar on a brown field(Tenné, a boar brindled sable and argent)",
+    "words": "None so Fierce",
+    "titles": [
+      "Lord of Crakehall"
+    ],
+    "seats": [
+      "Crakehall"
+    ],
+    "currentLord": "https://www.anapioficeandfire.com/api/characters/922",
+    "heir": "https://www.anapioficeandfire.com/api/characters/1046",
+    "overlord": "https://www.anapioficeandfire.com/api/houses/229",
+    "founded": "",
+    "founder": "https://www.anapioficeandfire.com/api/characters/257",
+    "diedOut": "",
+    "ancestralWeapons": [
+      ""
+    ],
+    "cadetBranches": [],
+    "swornMembers": [
+      "https://www.anapioficeandfire.com/api/characters/112",
+      "https://www.anapioficeandfire.com/api/characters/225",
+      "https://www.anapioficeandfire.com/api/characters/242",
+      "https://www.anapioficeandfire.com/api/characters/257",
+      "https://www.anapioficeandfire.com/api/characters/670",
+      "https://www.anapioficeandfire.com/api/characters/741",
+      "https://www.anapioficeandfire.com/api/characters/748",
+      "https://www.anapioficeandfire.com/api/characters/921",
+      "https://www.anapioficeandfire.com/api/characters/922",
+      "https://www.anapioficeandfire.com/api/characters/973",
+      "https://www.anapioficeandfire.com/api/characters/996",
+      "https://www.anapioficeandfire.com/api/characters/1046"
+    ]
+  },
+  {
+    "url": "https://www.anapioficeandfire.com/api/houses/229",
+    "name": "House Lannister of Casterly Rock",
+    "region": "The Westerlands",
+    "coatOfArms": "A gold lion, on a crimson field(Gules, a lion or)",
+    "words": "Hear Me Roar!",
+    "titles": [
+      "King of the Rock (formerly) Lord of Casterly Rock",
+      "Shield of Lannisport",
+      "Warden of the West"
+    ],
+    "seats": [
+      "Casterly Rock"
+    ],
+    "currentLord": "https://www.anapioficeandfire.com/api/characters/238",
+    "heir": "",
+    "overlord": "https://www.anapioficeandfire.com/api/houses/16",
+    "founded": "Age of Heroes",
+    "founder": "https://www.anapioficeandfire.com/api/characters/615",
+    "diedOut": "",
+    "ancestralWeapons": [
+      "Brightroar"
+    ],
+    "cadetBranches": [
+      "https://www.anapioficeandfire.com/api/houses/228",
+      "https://www.anapioficeandfire.com/api/houses/230",
+      "https://www.anapioficeandfire.com/api/houses/231",
+      "https://www.anapioficeandfire.com/api/houses/232",
+      "https://www.anapioficeandfire.com/api/houses/233"
+    ],
+    "swornMembers": [
+      "https://www.anapioficeandfire.com/api/characters/27",
+      "https://www.anapioficeandfire.com/api/characters/101",
+      "https://www.anapioficeandfire.com/api/characters/115",
+      "https://www.anapioficeandfire.com/api/characters/177",
+      "https://www.anapioficeandfire.com/api/characters/235",
+      "https://www.anapioficeandfire.com/api/characters/236",
+      "https://www.anapioficeandfire.com/api/characters/238",
+      "https://www.anapioficeandfire.com/api/characters/282",
+      "https://www.anapioficeandfire.com/api/characters/283",
+      "https://www.anapioficeandfire.com/api/characters/284",
+      "https://www.anapioficeandfire.com/api/characters/292",
+      "https://www.anapioficeandfire.com/api/characters/294",
+      "https://www.anapioficeandfire.com/api/characters/363",
+      "https://www.anapioficeandfire.com/api/characters/367",
+      "https://www.anapioficeandfire.com/api/characters/377",
+      "https://www.anapioficeandfire.com/api/characters/382",
+      "https://www.anapioficeandfire.com/api/characters/415",
+      "https://www.anapioficeandfire.com/api/characters/418",
+      "https://www.anapioficeandfire.com/api/characters/422",
+      "https://www.anapioficeandfire.com/api/characters/529",
+      "https://www.anapioficeandfire.com/api/characters/531",
+      "https://www.anapioficeandfire.com/api/characters/538",
+      "https://www.anapioficeandfire.com/api/characters/556",
+      "https://www.anapioficeandfire.com/api/characters/562",
+      "https://www.anapioficeandfire.com/api/characters/568",
+      "https://www.anapioficeandfire.com/api/characters/605",
+      "https://www.anapioficeandfire.com/api/characters/613",
+      "https://www.anapioficeandfire.com/api/characters/615",
+      "https://www.anapioficeandfire.com/api/characters/616",
+      "https://www.anapioficeandfire.com/api/characters/662",
+      "https://www.anapioficeandfire.com/api/characters/708",
+      "https://www.anapioficeandfire.com/api/characters/725",
+      "https://www.anapioficeandfire.com/api/characters/773",
+      "https://www.anapioficeandfire.com/api/characters/778",
+      "https://www.anapioficeandfire.com/api/characters/955",
+      "https://www.anapioficeandfire.com/api/characters/973",
+      "https://www.anapioficeandfire.com/api/characters/984",
+      "https://www.anapioficeandfire.com/api/characters/1025",
+      "https://www.anapioficeandfire.com/api/characters/1026",
+      "https://www.anapioficeandfire.com/api/characters/1044",
+      "https://www.anapioficeandfire.com/api/characters/1048",
+      "https://www.anapioficeandfire.com/api/characters/1049",
+      "https://www.anapioficeandfire.com/api/characters/1050",
+      "https://www.anapioficeandfire.com/api/characters/1051",
+      "https://www.anapioficeandfire.com/api/characters/1052",
+      "https://www.anapioficeandfire.com/api/characters/1057",
+      "https://www.anapioficeandfire.com/api/characters/1116",
+      "https://www.anapioficeandfire.com/api/characters/1207",
+      "https://www.anapioficeandfire.com/api/characters/1233",
+      "https://www.anapioficeandfire.com/api/characters/1251",
+      "https://www.anapioficeandfire.com/api/characters/1272",
+      "https://www.anapioficeandfire.com/api/characters/1275",
+      "https://www.anapioficeandfire.com/api/characters/1309",
+      "https://www.anapioficeandfire.com/api/characters/1338",
+      "https://www.anapioficeandfire.com/api/characters/1349",
+      "https://www.anapioficeandfire.com/api/characters/1430",
+      "https://www.anapioficeandfire.com/api/characters/1442",
+      "https://www.anapioficeandfire.com/api/characters/1483",
+      "https://www.anapioficeandfire.com/api/characters/1504",
+      "https://www.anapioficeandfire.com/api/characters/1550",
+      "https://www.anapioficeandfire.com/api/characters/1570",
+      "https://www.anapioficeandfire.com/api/characters/1573",
+      "https://www.anapioficeandfire.com/api/characters/1619",
+      "https://www.anapioficeandfire.com/api/characters/1647",
+      "https://www.anapioficeandfire.com/api/characters/1652",
+      "https://www.anapioficeandfire.com/api/characters/1665",
+      "https://www.anapioficeandfire.com/api/characters/1724",
+      "https://www.anapioficeandfire.com/api/characters/1822",
+      "https://www.anapioficeandfire.com/api/characters/1826",
+      "https://www.anapioficeandfire.com/api/characters/1848",
+      "https://www.anapioficeandfire.com/api/characters/1891",
+      "https://www.anapioficeandfire.com/api/characters/1892",
+      "https://www.anapioficeandfire.com/api/characters/1936",
+      "https://www.anapioficeandfire.com/api/characters/1945",
+      "https://www.anapioficeandfire.com/api/characters/1989",
+      "https://www.anapioficeandfire.com/api/characters/2029",
+      "https://www.anapioficeandfire.com/api/characters/2072",
+      "https://www.anapioficeandfire.com/api/characters/2085",
+      "https://www.anapioficeandfire.com/api/characters/2091"
+    ]
+  },
+  {
+    "url": "https://www.anapioficeandfire.com/api/houses/258",
+    "name": "House Marbrand of Ashemark",
+    "region": "The Westerlands",
+    "coatOfArms": "An orange burning tree, on a smoky field(Cendrée, a tree in flame tenné)",
+    "words": "Burning bright",
+    "titles": [
+      ""
+    ],
+    "seats": [
+      "Ashemark"
+    ],
+    "currentLord": "https://www.anapioficeandfire.com/api/characters/285",
+    "heir": "https://www.anapioficeandfire.com/api/characters/31",
+    "overlord": "https://www.anapioficeandfire.com/api/houses/229",
+    "founded": "",
+    "founder": "",
+    "diedOut": "",
+    "ancestralWeapons": [
+      ""
+    ],
+    "cadetBranches": [],
+    "swornMembers": [
+      "https://www.anapioficeandfire.com/api/characters/31",
+      "https://www.anapioficeandfire.com/api/characters/285",
+      "https://www.anapioficeandfire.com/api/characters/292",
+      "https://www.anapioficeandfire.com/api/characters/556",
+      "https://www.anapioficeandfire.com/api/characters/646"
+    ]
+  },
+  {
+    "url": "https://www.anapioficeandfire.com/api/houses/299",
+    "name": "House Peckledon",
+    "region": "The Westerlands",
+    "coatOfArms": "Ten purple stars, on a yellow field(Or, ten mullets, 4, 3, 2, 1, purpure)",
+    "words": "Unflinching",
+    "titles": [
+      ""
+    ],
+    "seats": [
+      ""
+    ],
+    "currentLord": "",
+    "heir": "",
+    "overlord": "https://www.anapioficeandfire.com/api/houses/229",
+    "founded": "",
+    "founder": "",
+    "diedOut": "",
+    "ancestralWeapons": [
+      ""
+    ],
+    "cadetBranches": [],
+    "swornMembers": [
+      "https://www.anapioficeandfire.com/api/characters/597"
+    ]
+  },
+  {
+    "url": "https://www.anapioficeandfire.com/api/houses/303",
+    "name": "House Plumm",
+    "region": "The Westerlands",
+    "coatOfArms": "Three purple roundels, on a gold field(Or, three golpes)",
+    "words": "Come Try Me",
+    "titles": [
+      ""
+    ],
+    "seats": [
+      ""
+    ],
+    "currentLord": "https://www.anapioficeandfire.com/api/characters/826",
+    "heir": "https://www.anapioficeandfire.com/api/characters/299",
+    "overlord": "https://www.anapioficeandfire.com/api/houses/229",
+    "founded": "",
+    "founder": "",
+    "diedOut": "",
+    "ancestralWeapons": [
+      ""
+    ],
+    "cadetBranches": [],
+    "swornMembers": [
+      "https://www.anapioficeandfire.com/api/characters/299",
+      "https://www.anapioficeandfire.com/api/characters/485",
+      "https://www.anapioficeandfire.com/api/characters/732",
+      "https://www.anapioficeandfire.com/api/characters/803",
+      "https://www.anapioficeandfire.com/api/characters/822",
+      "https://www.anapioficeandfire.com/api/characters/826",
+      "https://www.anapioficeandfire.com/api/characters/1078",
+      "https://www.anapioficeandfire.com/api/characters/1358"
+    ]
+  },
+  {
+    "url": "https://www.anapioficeandfire.com/api/houses/306",
+    "name": "House Prester of Feastfires",
+    "region": "The Westerlands",
+    "coatOfArms": "A red ox, on an ermine field(Ermine, an ox passant gules)",
+    "words": "Tireless",
+    "titles": [
+      "Lord of Feastfires"
+    ],
+    "seats": [
+      "Feastfires"
+    ],
+    "currentLord": "https://www.anapioficeandfire.com/api/characters/403",
+    "heir": "",
+    "overlord": "https://www.anapioficeandfire.com/api/houses/229",
+    "founded": "",
+    "founder": "",
+    "diedOut": "",
+    "ancestralWeapons": [
+      ""
+    ],
+    "cadetBranches": [],
+    "swornMembers": [
+      "https://www.anapioficeandfire.com/api/characters/394",
+      "https://www.anapioficeandfire.com/api/characters/403"
+    ]
+  },
+  {
+    "url": "https://www.anapioficeandfire.com/api/houses/338",
+    "name": "House Sarsfield of Sarsfield",
+    "region": "The Westerlands",
+    "coatOfArms": "A green arrow on a white bend, on a green field(Vert, on a bend argent an arrow of the field, point to dexter chief)",
+    "words": "True to the Mark",
+    "titles": [
+      ""
+    ],
+    "seats": [
+      "Sarsfield"
+    ],
+    "currentLord": "",
+    "heir": "",
+    "overlord": "https://www.anapioficeandfire.com/api/houses/229",
+    "founded": "",
+    "founder": "",
+    "diedOut": "",
+    "ancestralWeapons": [
+      ""
+    ],
+    "cadetBranches": [],
+    "swornMembers": [
+      "https://www.anapioficeandfire.com/api/characters/745"
+    ]
+  },
+  {
+    "url": "https://www.anapioficeandfire.com/api/houses/342",
+    "name": "House Serrett of Silverhill",
+    "region": "The Westerlands",
+    "coatOfArms": "A peacock in his pride, on a cream field(Argent, a peacock-in-his-pride proper)",
+    "words": "I Have No Rival",
+    "titles": [
+      ""
+    ],
+    "seats": [
+      "Silverhill"
+    ],
+    "currentLord": "",
+    "heir": "",
+    "overlord": "https://www.anapioficeandfire.com/api/houses/229",
+    "founded": "",
+    "founder": "",
+    "diedOut": "",
+    "ancestralWeapons": [
+      ""
+    ],
+    "cadetBranches": [],
+    "swornMembers": []
+  },
+  {
+    "url": "https://www.anapioficeandfire.com/api/houses/374",
+    "name": "House Swyft of Cornfield",
+    "region": "The Westerlands",
+    "coatOfArms": "A blue bantam rooster, on a yellow field(Or, a cock close azure)",
+    "words": "Awake! Awake!",
+    "titles": [
+      "Knight of Cornfield"
+    ],
+    "seats": [
+      "Cornfield"
+    ],
+    "currentLord": "https://www.anapioficeandfire.com/api/characters/487",
+    "heir": "https://www.anapioficeandfire.com/api/characters/992",
+    "overlord": "https://www.anapioficeandfire.com/api/houses/229",
+    "founded": "",
+    "founder": "",
+    "diedOut": "",
+    "ancestralWeapons": [
+      ""
+    ],
+    "cadetBranches": [],
+    "swornMembers": [
+      "https://www.anapioficeandfire.com/api/characters/34",
+      "https://www.anapioficeandfire.com/api/characters/327",
+      "https://www.anapioficeandfire.com/api/characters/487",
+      "https://www.anapioficeandfire.com/api/characters/516",
+      "https://www.anapioficeandfire.com/api/characters/563",
+      "https://www.anapioficeandfire.com/api/characters/564",
+      "https://www.anapioficeandfire.com/api/characters/974",
+      "https://www.anapioficeandfire.com/api/characters/992",
+      "https://www.anapioficeandfire.com/api/characters/2111"
+    ]
+  },
+  {
+    "url": "https://www.anapioficeandfire.com/api/houses/425",
+    "name": "House Westerling of the Crag",
+    "region": "The Westerlands",
+    "coatOfArms": "Six white shells, on a sand-coloured field(Or, six escallops argent)",
+    "words": "Honor, Not Honors",
+    "titles": [
+      "Lord of the Crag"
+    ],
+    "seats": [
+      "The Crag"
+    ],
+    "currentLord": "https://www.anapioficeandfire.com/api/characters/413",
+    "heir": "https://www.anapioficeandfire.com/api/characters/923",
+    "overlord": "https://www.anapioficeandfire.com/api/houses/229",
+    "founded": "",
+    "founder": "",
+    "diedOut": "",
+    "ancestralWeapons": [
+      ""
+    ],
+    "cadetBranches": [],
+    "swornMembers": [
+      "https://www.anapioficeandfire.com/api/characters/360",
+      "https://www.anapioficeandfire.com/api/characters/374",
+      "https://www.anapioficeandfire.com/api/characters/413",
+      "https://www.anapioficeandfire.com/api/characters/479",
+      "https://www.anapioficeandfire.com/api/characters/560",
+      "https://www.anapioficeandfire.com/api/characters/561",
+      "https://www.anapioficeandfire.com/api/characters/568",
+      "https://www.anapioficeandfire.com/api/characters/792",
+      "https://www.anapioficeandfire.com/api/characters/856",
+      "https://www.anapioficeandfire.com/api/characters/923",
+      "https://www.anapioficeandfire.com/api/characters/927",
+      "https://www.anapioficeandfire.com/api/characters/997"
+    ]
+  }
+]

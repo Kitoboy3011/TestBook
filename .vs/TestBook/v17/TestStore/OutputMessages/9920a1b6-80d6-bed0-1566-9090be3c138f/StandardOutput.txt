@@ -1,0 +1,184 @@
+[
+  {
+    "url": "https://www.anapioficeandfire.com/api/houses/2",
+    "name": "House Allyrion of Godsgrace",
+    "region": "Dorne",
+    "coatOfArms": "Gyronny Gules and Sable, a hand couped Or",
+    "words": "No Foe May Pass",
+    "titles": [
+      ""
+    ],
+    "seats": [
+      "Godsgrace"
+    ],
+    "currentLord": "https://www.anapioficeandfire.com/api/characters/298",
+    "heir": "https://www.anapioficeandfire.com/api/characters/1922",
+    "overlord": "https://www.anapioficeandfire.com/api/houses/285",
+    "founded": "",
+    "founder": "",
+    "diedOut": "",
+    "ancestralWeapons": [
+      ""
+    ],
+    "cadetBranches": [],
+    "swornMembers": [
+      "https://www.anapioficeandfire.com/api/characters/298",
+      "https://www.anapioficeandfire.com/api/characters/1129",
+      "https://www.anapioficeandfire.com/api/characters/1301",
+      "https://www.anapioficeandfire.com/api/characters/1922"
+    ]
+  },
+  {
+    "url": "https://www.anapioficeandfire.com/api/houses/141",
+    "name": "House Fowler of Skyreach",
+    "region": "Dorne",
+    "coatOfArms": "Argent, a hooded hawk trussed azure",
+    "words": "Let Me Soar",
+    "titles": [
+      "Lord of Skyreach",
+      "Warden of the Prince's Pass",
+      "Lord of the Wide Way",
+      "King of Stone and Sky"
+    ],
+    "seats": [
+      "Skyreach"
+    ],
+    "currentLord": "https://www.anapioficeandfire.com/api/characters/396",
+    "heir": "",
+    "overlord": "https://www.anapioficeandfire.com/api/houses/285",
+    "founded": "",
+    "founder": "",
+    "diedOut": "",
+    "ancestralWeapons": [
+      ""
+    ],
+    "cadetBranches": [],
+    "swornMembers": [
+      "https://www.anapioficeandfire.com/api/characters/396"
+    ]
+  },
+  {
+    "url": "https://www.anapioficeandfire.com/api/houses/213",
+    "name": "House Jordayne of the Tor",
+    "region": "Dorne",
+    "coatOfArms": "Chequy light and dark green, a quill or.",
+    "words": "Let it be Written",
+    "titles": [
+      "Lord of the Tor"
+    ],
+    "seats": [
+      "The Tor"
+    ],
+    "currentLord": "https://www.anapioficeandfire.com/api/characters/1035",
+    "heir": "https://www.anapioficeandfire.com/api/characters/776",
+    "overlord": "https://www.anapioficeandfire.com/api/houses/285",
+    "founded": "",
+    "founder": "",
+    "diedOut": "",
+    "ancestralWeapons": [
+      ""
+    ],
+    "cadetBranches": [],
+    "swornMembers": [
+      "https://www.anapioficeandfire.com/api/characters/776",
+      "https://www.anapioficeandfire.com/api/characters/1035"
+    ]
+  },
+  {
+    "url": "https://www.anapioficeandfire.com/api/houses/285",
+    "name": "House Nymeros Martell of Sunspear",
+    "region": "Dorne",
+    "coatOfArms": "Tenny, a sun in splendour gules transfixed by a spear bendwise Or",
+    "words": "Unbowed, Unbent, Unbroken",
+    "titles": [
+      "Lord of the Sandship",
+      "Lord of Sunspear",
+      "Prince of Dorne"
+    ],
+    "seats": [
+      "Old Palace within Sunspear"
+    ],
+    "currentLord": "https://www.anapioficeandfire.com/api/characters/326",
+    "heir": "https://www.anapioficeandfire.com/api/characters/130",
+    "overlord": "https://www.anapioficeandfire.com/api/houses/16",
+    "founded": "1,000 years ago",
+    "founder": "https://www.anapioficeandfire.com/api/characters/1718",
+    "diedOut": "",
+    "ancestralWeapons": [
+      ""
+    ],
+    "cadetBranches": [],
+    "swornMembers": [
+      "https://www.anapioficeandfire.com/api/characters/130",
+      "https://www.anapioficeandfire.com/api/characters/271",
+      "https://www.anapioficeandfire.com/api/characters/326",
+      "https://www.anapioficeandfire.com/api/characters/361",
+      "https://www.anapioficeandfire.com/api/characters/364",
+      "https://www.anapioficeandfire.com/api/characters/631",
+      "https://www.anapioficeandfire.com/api/characters/705",
+      "https://www.anapioficeandfire.com/api/characters/709",
+      "https://www.anapioficeandfire.com/api/characters/719",
+      "https://www.anapioficeandfire.com/api/characters/763",
+      "https://www.anapioficeandfire.com/api/characters/782",
+      "https://www.anapioficeandfire.com/api/characters/844",
+      "https://www.anapioficeandfire.com/api/characters/1043",
+      "https://www.anapioficeandfire.com/api/characters/1166",
+      "https://www.anapioficeandfire.com/api/characters/1197",
+      "https://www.anapioficeandfire.com/api/characters/1230",
+      "https://www.anapioficeandfire.com/api/characters/1253",
+      "https://www.anapioficeandfire.com/api/characters/1261",
+      "https://www.anapioficeandfire.com/api/characters/1339",
+      "https://www.anapioficeandfire.com/api/characters/1362",
+      "https://www.anapioficeandfire.com/api/characters/1414",
+      "https://www.anapioficeandfire.com/api/characters/1632",
+      "https://www.anapioficeandfire.com/api/characters/1697",
+      "https://www.anapioficeandfire.com/api/characters/1698",
+      "https://www.anapioficeandfire.com/api/characters/1718",
+      "https://www.anapioficeandfire.com/api/characters/1723",
+      "https://www.anapioficeandfire.com/api/characters/1725",
+      "https://www.anapioficeandfire.com/api/characters/1743",
+      "https://www.anapioficeandfire.com/api/characters/1766",
+      "https://www.anapioficeandfire.com/api/characters/1768",
+      "https://www.anapioficeandfire.com/api/characters/1769",
+      "https://www.anapioficeandfire.com/api/characters/1770",
+      "https://www.anapioficeandfire.com/api/characters/1876",
+      "https://www.anapioficeandfire.com/api/characters/1930",
+      "https://www.anapioficeandfire.com/api/characters/2011",
+      "https://www.anapioficeandfire.com/api/characters/2041"
+    ]
+  },
+  {
+    "url": "https://www.anapioficeandfire.com/api/houses/444",
+    "name": "House Yronwood of Yronwood",
+    "region": "Dorne",
+    "coatOfArms": "Or, a portcullis sable",
+    "words": "We Guard the Way",
+    "titles": [
+      "The Bloodroyal",
+      "Lord of Yronwood",
+      "Warden of the Stone Way",
+      "High King of Dorne (formerly)"
+    ],
+    "seats": [
+      "Yronwood"
+    ],
+    "currentLord": "https://www.anapioficeandfire.com/api/characters/117",
+    "heir": "https://www.anapioficeandfire.com/api/characters/452",
+    "overlord": "https://www.anapioficeandfire.com/api/houses/285",
+    "founded": "",
+    "founder": "",
+    "diedOut": "",
+    "ancestralWeapons": [
+      ""
+    ],
+    "cadetBranches": [],
+    "swornMembers": [
+      "https://www.anapioficeandfire.com/api/characters/117",
+      "https://www.anapioficeandfire.com/api/characters/126",
+      "https://www.anapioficeandfire.com/api/characters/246",
+      "https://www.anapioficeandfire.com/api/characters/452",
+      "https://www.anapioficeandfire.com/api/characters/793",
+      "https://www.anapioficeandfire.com/api/characters/1129"
+    ]
+  }
+]
